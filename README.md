@@ -27,7 +27,8 @@ along with Damn Vulnerable Web Application (DVWA).  If not, see http://www.gnu.o
 
 ## How to use
 
-```> git clone https://github.com/r3tard3dd/dvwa_docker-compose DVWA
+```
+> git clone https://github.com/r3tard3dd/dvwa_docker-compose DVWA
 > cd DVWA
 > docker-compose up -d --build
 ```
